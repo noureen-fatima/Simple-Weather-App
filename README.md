@@ -13,6 +13,7 @@ The Weather App provides the following basic functionality:
 - Handles dark theme to provide a visually appealing experience in both light and dark modes.
 - Includes a liquid pull-to-refresh feature to manually update the weather data.
 - Automatically requests permission to access the user's location and handles cases when permission is denied or permanently denied.
+- Automatically changes weather icons based on the API response to represent the weather conditions.
 
 ## Screenshots
 
